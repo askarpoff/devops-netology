@@ -14,3 +14,4 @@
 *_override.tf.json
 И не будет файлов .terraformrc и terraform.rc
 
+123/r/n
